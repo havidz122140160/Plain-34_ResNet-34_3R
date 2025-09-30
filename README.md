@@ -46,7 +46,7 @@ Tabel berikut merangkum metrik performa kunci dari kedua model berdasarkan hasil
 
 Grafik di bawah ini memvisualisasikan perbandingan kurva akurasi validasi antara kedua model selama 15 epoch.
 
-images/grafik_perbandingan_Plain-34_ResNet-34.png
+![Grafik Perbandingan Akurasi Plain-34 dan ResNet-34](https://github.com/havidz122140160/Plain-34_ResNet-34_3R/blob/main/images/grafik_perbandingan_Plain-34_ResNet-34.png)
 
 ---
 
@@ -64,7 +64,7 @@ Di sisi lain, meskipun kurva validasi ResNet-34 juga menunjukkan volatilitas, tr
 
 Source code lengkap untuk implementasi ResNet-34 yang dimodifikasi dari Plain-34 dapat diakses melalui repositori GitHub berikut:
 
-`[Link ke Repositori GitHub](https://github.com/havidz122140160/Plain-34_ResNet-34_3R)`
+![Link ke Repositori GitHub](https://github.com/havidz122140160/Plain-34_ResNet-34_3R)
 
 ---
 
