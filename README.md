@@ -64,7 +64,7 @@ Di sisi lain, meskipun kurva validasi ResNet-34 juga menunjukkan volatilitas, tr
 
 Source code lengkap untuk implementasi ResNet-34 yang dimodifikasi dari Plain-34 dapat diakses melalui repositori GitHub berikut:
 
-![Link ke Source Code Google Colab](https://colab.research.google.com/drive/1ULzfSQh7G53nJhmpJcFyjdMG0e-N1q6r?authuser=1#scrollTo=BkazO2n5mMhN)
+[Link ke Source Code Google Colab](https://colab.research.google.com/drive/1ULzfSQh7G53nJhmpJcFyjdMG0e-N1q6r?authuser=1#scrollTo=BkazO2n5mMhN)
 
 ---
 
